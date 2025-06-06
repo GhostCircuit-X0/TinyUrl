@@ -1,63 +1,73 @@
-# URL Shortener Project with Next.js and Supabase
+# TrimUrl – Shorten Your Long URLs Instantly!
 
-## Overview
+[![Status Page](https://oneuptime.com/status-page/263d0a76-da30-43ea-a861-51ae811fc374/badge.svg)](https://oneuptime.com/status-page/263d0a76-da30-43ea-a861-51ae811fc374)
 
-This project is a URL shortener built with Next.js and Supabase, designed to simplify the way you handle and share long URLs. With this application, you can easily create short and memorable links that redirect to the original URLs. It provides a clean and efficient solution for managing and sharing links, making the navigation experience more user-friendly.
+[![GitHub Repo stars](https://img.shields.io/github/stars/rendyandika28/next-url-shortener?style=social)](https://github.com/rendyandika28/next-url-shortener/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/rendyandika28/next-url-shortener?style=social)](https://github.com/rendyandika28/next-url-shortener/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/rendyandika28/next-url-shortener)](https://github.com/rendyandika28/next-url-shortener/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/rendyandika28/next-url-shortener)](https://github.com/rendyandika28/next-url-shortener/pulls)
+[![GitHub license](https://img.shields.io/github/license/rendyandika28/next-url-shortener)](https://github.com/rendyandika28/next-url-shortener/blob/main/LICENSE.md)
+[![GitHub last commit](https://img.shields.io/github/last-commit/rendyandika28/next-url-shortener)](https://github.com/rendyandika28/next-url-shortener/commits/main)
 
-## Features
+## 🚀 What is TrimUrl?
 
-- **Shorten URLs**: Convert long URLs into short, easy-to-share links.
-- **Custom Short URLs**: Optionally customize the short URL for a more personalized touch.
+TrimUrl is a fast, modern, and reliable URL shortener built using Next.js and Supabase. Effortlessly convert your lengthy links into concise, shareable URLs with just a click. Ideal for sharing on social media, messaging apps, or anywhere you want cleaner, more memorable links.
 
-## Technologies Used
+## ✨ Key Features
 
-- **Next.js**: A React framework for building server-side rendered and statically generated web applications.
-- **Supabase**: An open-source alternative to Firebase, providing a powerful and scalable backend for your applications.
-- **React**: A JavaScript library for building user interfaces.
+- **Instant URL Shortening:** Turn long, unwieldy URLs into compact ones with ease.
+- **Custom Aliases:** Personalize your short links for better memorability.
+- **Analytics (optional):** Track how many times your links are visited.
+- **Open Source:** Fully transparent and extensible for your needs.
 
-## Getting Started
+## 🛠️ Tech Stack
 
-1. Clone the repository:
+- **Next.js** — Lightning-fast React framework for web apps.
+- **Supabase** — Open source backend-as-a-service (BaaS) for authentication and database.
+- **React** — UI library for seamless user experiences.
 
+## 🏁 Getting Started
+
+1. **Clone this repository**
    ```bash
    git clone https://github.com/rendyandika28/next-url-shortener.git
    ```
 
-2. Install dependencies:
-
+2. **Install dependencies**
    ```bash
    cd url-shortener-nextjs-supabase
    npm install
    ```
 
-3. Set up Supabase:
+3. **Configure Supabase**
+   - Create a new project at [Supabase.io](https://supabase.io)
+   - Get your Supabase URL and API key.
+   - Add them to your project’s environment variables.
 
-   - Create a Supabase project and obtain the API key.
-   - Configure the Supabase connection in your Next.js project.
-
-4. Run the application:
-
+4. **Run the app locally**
    ```bash
    npm run dev
    ```
+   Visit [http://localhost:3000](http://localhost:3000)
 
-   Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
+## ⚙️ Configuration
 
-## Configuration
+- Edit your Supabase credentials in `.env.local`.
+- Adjust settings or features as needed in the source code.
 
-In the project, you can customize settings such as Supabase configuration and any additional features you'd like to implement.
+## 🤝 Contribution
 
-## Contributing
+Want to improve TrimUrl? Fork the repo, create a branch, and make a pull request! All contributions are welcome.
 
-Contributions are welcome! If you have any ideas for improvement, feel free to open an issue or submit a pull request.
+## 📄 License
 
-## License
+MIT License. See [LICENSE.md](LICENSE.md) for details.
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+## 🙏 Acknowledgments
 
-## Acknowledgments
+- Made possible with Next.js & Supabase.
+- Thanks to the open source community!
 
-- Thanks to the Next.js and Supabase teams for providing excellent tools for web development.
-- Inspiration from various URL shortener projects that contributed to the design and functionality of this application.
+---
 
-Happy shortening! 🚀
+TrimUrl – Shrink, Share, and Track your links with confidence!
