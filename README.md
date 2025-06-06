@@ -1,6 +1,6 @@
 # TrimUrl – Shorten Your Long URLs Instantly!
 
-[![Status Page](https://oneuptime.com/status-page/263d0a76-da30-43ea-a861-51ae811fc374/badge.svg)](https://oneuptime.com/status-page/263d0a76-da30-43ea-a861-51ae811fc374)
+**[🔗 View Service Status](https://oneuptime.com/status-page/263d0a76-da30-43ea-a861-51ae811fc374)**
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/rendyandika28/next-url-shortener?style=social)](https://github.com/rendyandika28/next-url-shortener/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/rendyandika28/next-url-shortener?style=social)](https://github.com/rendyandika28/next-url-shortener/network/members)
